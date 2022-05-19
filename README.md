@@ -1,2 +1,2 @@
 # hotel
-It`s site for hotel with information abpou it
+It`s site for hotel with information about it
